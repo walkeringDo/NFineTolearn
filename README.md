@@ -49,7 +49,7 @@
 <li>QQ交流群：549652099</li>
 <li>发布日期：2016年05月06日</li>
 <li>版权所有：NFine开发团队出品</li>
-<li>官方官网：<a href="http://www.nfine.cn" target="_blank">http://www.nfine.cn</a></li>
+<li>官方网站：<a href="http://www.nfine.cn" target="_blank">http://www.nfine.cn</a></li>
 <li>开源协议：Apache License 2.0 </li>
 <li>系统描述：轻松开发，专注您的业务，从NFine开始</li>
 </ul>
@@ -57,3 +57,5 @@
 #### NFine界面截图：
 
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/0816/104942_e19a2e02_942632.png "在这里输入图片标题")
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0816/112537_554b9269_942632.png "在这里输入图片标题")
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0816/112556_6b16c6ba_942632.png "在这里输入图片标题")
