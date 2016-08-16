@@ -30,26 +30,29 @@ NFine是一套基于ASP.NET MVC+EF6+Bootstrap开发出来的框架，源代码�
 </ul>
 
 2、后端技术
-核心框架：ASP.NET MVC5、WEB API
-持久层框架：EntityFramework 6.0
-定时计划任务：Quartz.Net组件
-安全支持：过滤器、Sql注入、请求伪造
-服务端验证：实体模型验证、自己封装Validator
-缓存框架：微软自带Cache、Redis
-日志管理：Log4net、登录日志、操作日志
-工具类：NPOI、Newtonsoft.Json、验证码、丰富公共类似
+<ul class="task-list">
+<li>核心框架：ASP.NET MVC5、WEB API</li>
+<li>持久层框架：EntityFramework 6.0</li>
+<li>定时计划任务：Quartz.Net组件</li>
+<li>安全支持：过滤器、Sql注入、请求伪造</li>
+<li>服务端验证：实体模型验证、自己封装Validator</li>
+<li>缓存框架：微软自带Cache、Redis</li>
+<li>日志管理：Log4net、登录日志、操作日志</li>
+<li>工具类：NPOI、Newtonsoft.Json、验证码、丰富公共类似</li>
+</ul>
 
 #### NFine开发者信息：
-
-系统名称：NFine快速开发平台
-系统作者：NFine团队
-作者Q Q：2717247167
-QQ交流群：549652099
-发布日期：2016年05月06日
-版权所有：NFine开发团队出品
-官方官网：http://www.nfine.cn
-开源协议：Apache License 2.0 
-系统描述：轻松开发，专注您的业务，从NFine开始
+<ul class="task-list">
+<li>系统名称：NFine快速开发平台</li>
+<li>系统作者：NFine团队</li>
+<li>作者Q Q：2717247167</li>
+<li>QQ交流群：549652099</li>
+<li>发布日期：2016年05月06日</li>
+<li>版权所有：NFine开发团队出品</li>
+<li>官方官网：http://www.nfine.cn</li>
+<li>开源协议：Apache License 2.0 </li>
+<li>系统描述：轻松开发，专注您的业务，从NFine开始</li>
+</ul>
 
 #### NFine界面截图：
 
