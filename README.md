@@ -10,7 +10,7 @@
 <li>提高开发效率及质量。常用类封装，日志、缓存、验证、字典、文件、邮件、,Excel。等等，目前兼容浏览器（IE8+、Chrome、Firefox、360浏览器等）</li>
 <li>适用范围：可以开发OA、ERP、BPM、CRM、WMS、TMS、MIS、BI、电商平台后台、物流管理系统、快递管理系统、教务管理系统等各类管理软件。</li>
 </ul>
-<p><code>在线体验地址/code>  <a href="http://www.nfine.cn:8099/" target="_blank">http://www.nfine.cn:8099/</a></p>
+<p>  <code>在线体验地址</code><a href="http://www.nfine.cn:8099/" target="_blank">http://www.nfine.cn:8099/</a></p>
 
 #### NFine开发者信息：
 <ul class="task-list">
