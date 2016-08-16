@@ -10,6 +10,20 @@
 <li>提高开发效率及质量。常用类封装，日志、缓存、验证、字典、文件、邮件、,Excel。等等，目前兼容浏览器（IE8+、Chrome、Firefox、360浏览器等）</li>
 <li>适用范围：可以开发OA、ERP、BPM、CRM、WMS、TMS、MIS、BI、电商平台后台、物流管理系统、快递管理系统、教务管理系统等各类管理软件。</li>
 </ul>
+
+#### NFine开发者信息：
+<ul class="task-list">
+<li>系统名称：NFine快速开发平台</li>
+<li>系统作者：NFine团队</li>
+<li>作者Q Q：2717247167</li>
+<li>QQ交流群：549652099</li>
+<li>发布日期：2016年05月06日</li>
+<li>版权所有：NFine开发团队出品</li>
+<li>官方网站：<a href="http://www.nfine.cn" target="_blank">http://www.nfine.cn</a></li>
+<li>开源协议：Apache License 2.0 </li>
+<li>系统描述：轻松开发，专注您的业务，从NFine开始</li>
+</ul>
+
 #### NFine技术介绍：
 
 1、前端技术
@@ -39,19 +53,6 @@
 <li>缓存框架：微软自带Cache、Redis</li>
 <li>日志管理：Log4net、登录日志、操作日志</li>
 <li>工具类：NPOI、Newtonsoft.Json、验证码、丰富公共类似</li>
-</ul>
-
-#### NFine开发者信息：
-<ul class="task-list">
-<li>系统名称：NFine快速开发平台</li>
-<li>系统作者：NFine团队</li>
-<li>作者Q Q：2717247167</li>
-<li>QQ交流群：549652099</li>
-<li>发布日期：2016年05月06日</li>
-<li>版权所有：NFine开发团队出品</li>
-<li>官方网站：<a href="http://www.nfine.cn" target="_blank">http://www.nfine.cn</a></li>
-<li>开源协议：Apache License 2.0 </li>
-<li>系统描述：轻松开发，专注您的业务，从NFine开始</li>
 </ul>
 
 #### NFine界面截图：
