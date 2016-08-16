@@ -12,6 +12,10 @@ NFine是一套基于ASP.NET MVC+EF6+Bootstrap开发出来的框架，源代码�
 
 #### NFine技术介绍：
 
+1. - 这里是列表文本
+- 这里是列表文本
+- 这里是列表文本
+
 1、前端技术
 JS框架：jquery-2.1.1、Bootstrap.js、JQuery UI
 CSS框架：Bootstrap v3.3.4（稳定是后台，UI方面根据需求自己升级改造吧）。
