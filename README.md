@@ -12,24 +12,22 @@ NFine是一套基于ASP.NET MVC+EF6+Bootstrap开发出来的框架，源代码�
 
 #### NFine技术介绍：
 
-1. - 这里是列表文本
-- 这里是列表文本
-- 这里是列表文本
-
 1、前端技术
-JS框架：jquery-2.1.1、Bootstrap.js、JQuery UI
-CSS框架：Bootstrap v3.3.4（稳定是后台，UI方面根据需求自己升级改造吧）。
-客户端验证：jQuery Validation Plugin 1.9.0。
-在线编辑器：ckeditor、simditor
-上传文件：Uploadify v3.2.1
-动态页签：Jerichotab（自己改造）
-数据表格：jqGrid、Bootstrap Talbe
-对话框：layer-v2.3
-下拉选择框：jQuery Select2
-树结构控件：jQuery zTree、jQuery wdtree
-页面布局：jquery.layout.js 1.4.4
-图表插件：echarts、highcharts
-日期控件： My97DatePicker
+<ul class="task-list">
+<li>JS框架：jquery-2.1.1、Bootstrap.js、JQuery UI</li>
+<li>CSS框架：Bootstrap v3.3.4（稳定是后台，UI方面根据需求自己升级改造吧）。</li>
+<li>客户端验证：jQuery Validation Plugin 1.9.0。</li>
+<li>在线编辑器：ckeditor、simditor</li>
+<li>上传文件：Uploadify v3.2.1</li>
+<li>动态页签：Jerichotab（自己改造）</li>
+<li>数据表格：jqGrid、Bootstrap Talbe</li>
+<li>对话框：layer-v2.3</li>
+<li>下拉选择框：jQuery Select2</li>
+<li>树结构控件：jQuery zTree、jQuery wdtree</li>
+<li>页面布局：jquery.layout.js 1.4.4</li>
+<li>图表插件：echarts、highcharts</li>
+<li>日期控件： My97DatePicker</li>
+</ul>
 
 2、后端技术
 核心框架：ASP.NET MVC5、WEB API
