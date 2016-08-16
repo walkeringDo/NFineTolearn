@@ -1,5 +1,5 @@
 *{-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit}
-/*Grid*/.ui-jqgrid{position: relative;border: 1px solid #ddd;/*default*/}
+/*Grid*/.ui-jqgrid{position: relative;border: 1px solid #ddd;background-color: #fff;}
 .ui-jqgrid .ui-jqgrid-view{position: relative;left:0;top: 0;padding: 0;}
 .ui-jqgrid .ui-common-table{}
 /* Caption*/.ui-jqgrid .ui-jqgrid-titlebar{font-weight: normal;height:33px;line-height:32px;padding: 0px;padding-left:8px;position: relative;margin-right: 0px;border-bottom: 1px solid #ddd;/*default*/}
